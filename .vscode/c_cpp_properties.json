@@ -4,7 +4,8 @@
             "name": "Win32",
             "includePath": [
                 "C:\\Users\\Spencer\\AppData\\Local\\Arduino15\\packages\\adafruit\\tools\\**",
-                "C:\\Users\\Spencer\\AppData\\Local\\Arduino15\\packages\\adafruit\\hardware\\nrf52\\0.21.0\\**"
+                "C:\\Users\\Spencer\\AppData\\Local\\Arduino15\\packages\\adafruit\\hardware\\nrf52\\0.21.0\\**",
+                "C:\\Users\\Spencer\\Desktop\\Keyboard\\Firmware\\Adafruit_nRF52_Arduino\\tools\\**"
             ],
             "forcedInclude": [],
             "intelliSenseMode": "msvc-x64",
