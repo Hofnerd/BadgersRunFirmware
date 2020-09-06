@@ -1,0 +1,37 @@
+c:\Users\Spencer\Desktop\Keyboard\Firmware\BadgersRunFirmware\Build\core\variant.cpp.o: \
+ C:\Users\Spencer\AppData\Local\Arduino15\packages\adafruit\hardware\nrf52\0.21.0\variants\feather_nrf52832\variant.cpp \
+ C:\Users\Spencer\AppData\Local\Arduino15\packages\adafruit\hardware\nrf52\0.21.0\variants\feather_nrf52832\variant.h \
+ C:\Users\Spencer\AppData\Local\Arduino15\packages\adafruit\hardware\nrf52\0.21.0\cores\nRF5/WVariant.h \
+ C:\Users\Spencer\AppData\Local\Arduino15\packages\adafruit\hardware\nrf52\0.21.0\cores\nRF5/nordic/nrfx/mdk/nrf.h \
+ C:\Users\Spencer\AppData\Local\Arduino15\packages\adafruit\hardware\nrf52\0.21.0\cores\nRF5/nordic/nrfx/mdk/nrf52.h \
+ C:\Users\Spencer\AppData\Local\Arduino15\packages\adafruit\hardware\nrf52\0.21.0\cores\nRF5/cmsis/Core/Include/core_cm4.h \
+ C:\Users\Spencer\AppData\Local\Arduino15\packages\adafruit\hardware\nrf52\0.21.0\cores\nRF5/cmsis/Core/Include/cmsis_version.h \
+ C:\Users\Spencer\AppData\Local\Arduino15\packages\adafruit\hardware\nrf52\0.21.0\cores\nRF5/cmsis/Core/Include/cmsis_compiler.h \
+ C:\Users\Spencer\AppData\Local\Arduino15\packages\adafruit\hardware\nrf52\0.21.0\cores\nRF5/cmsis/Core/Include/cmsis_gcc.h \
+ C:\Users\Spencer\AppData\Local\Arduino15\packages\adafruit\hardware\nrf52\0.21.0\cores\nRF5/cmsis/Core/Include/mpu_armv7.h \
+ C:\Users\Spencer\AppData\Local\Arduino15\packages\adafruit\hardware\nrf52\0.21.0\cores\nRF5/nordic/nrfx/mdk/system_nrf52.h \
+ C:\Users\Spencer\AppData\Local\Arduino15\packages\adafruit\hardware\nrf52\0.21.0\cores\nRF5/nordic/nrfx/mdk/system_nrf.h \
+ C:\Users\Spencer\AppData\Local\Arduino15\packages\adafruit\hardware\nrf52\0.21.0\cores\nRF5/nordic/nrfx/mdk/nrf52_bitfields.h \
+ C:\Users\Spencer\AppData\Local\Arduino15\packages\adafruit\hardware\nrf52\0.21.0\cores\nRF5/nordic/nrfx/mdk/nrf51_to_nrf52.h \
+ C:\Users\Spencer\AppData\Local\Arduino15\packages\adafruit\hardware\nrf52\0.21.0\cores\nRF5/nordic/nrfx/mdk/nrf52_name_change.h \
+ C:\Users\Spencer\AppData\Local\Arduino15\packages\adafruit\hardware\nrf52\0.21.0\cores\nRF5/nordic/nrfx/mdk/compiler_abstraction.h \
+ C:\Users\Spencer\AppData\Local\Arduino15\packages\adafruit\hardware\nrf52\0.21.0\cores\nRF5/nordic/softdevice/s132_nrf52_6.1.1_API/include/nrf_soc.h \
+ C:\Users\Spencer\AppData\Local\Arduino15\packages\adafruit\hardware\nrf52\0.21.0\cores\nRF5/nordic/softdevice/s132_nrf52_6.1.1_API/include/nrf_svc.h \
+ C:\Users\Spencer\AppData\Local\Arduino15\packages\adafruit\hardware\nrf52\0.21.0\cores\nRF5/nordic/softdevice/s132_nrf52_6.1.1_API/include/nrf_error.h \
+ C:\Users\Spencer\AppData\Local\Arduino15\packages\adafruit\hardware\nrf52\0.21.0\cores\nRF5/nordic/softdevice/s132_nrf52_6.1.1_API/include/nrf_error_soc.h \
+ C:\Users\Spencer\AppData\Local\Arduino15\packages\adafruit\hardware\nrf52\0.21.0\cores\nRF5/nordic/softdevice/s132_nrf52_6.1.1_API/include/nrf_sdm.h \
+ C:\Users\Spencer\AppData\Local\Arduino15\packages\adafruit\hardware\nrf52\0.21.0\cores\nRF5/nordic/softdevice/s132_nrf52_6.1.1_API/include/nrf_error_sdm.h \
+ C:\Users\Spencer\AppData\Local\Arduino15\packages\adafruit\hardware\nrf52\0.21.0\cores\nRF5/nordic/softdevice/s132_nrf52_6.1.1_API/include/nrf_soc.h \
+ C:\Users\Spencer\AppData\Local\Arduino15\packages\adafruit\hardware\nrf52\0.21.0\cores\nRF5/nordic/nrfx/hal/nrf_gpio.h \
+ C:\Users\Spencer\AppData\Local\Arduino15\packages\adafruit\hardware\nrf52\0.21.0\cores\nRF5/nordic/nrfx/nrfx.h \
+ C:\Users\Spencer\AppData\Local\Arduino15\packages\adafruit\hardware\nrf52\0.21.0\cores\nRF5/nordic/nrfx_config.h \
+ C:\Users\Spencer\AppData\Local\Arduino15\packages\adafruit\hardware\nrf52\0.21.0\cores\nRF5/nordic/nrfx/drivers/nrfx_common.h \
+ C:\Users\Spencer\AppData\Local\Arduino15\packages\adafruit\hardware\nrf52\0.21.0\cores\nRF5/nordic/nrfx/mdk/nrf_peripherals.h \
+ C:\Users\Spencer\AppData\Local\Arduino15\packages\adafruit\hardware\nrf52\0.21.0\cores\nRF5/nordic/nrfx/mdk/nrf52832_peripherals.h \
+ C:\Users\Spencer\AppData\Local\Arduino15\packages\adafruit\hardware\nrf52\0.21.0\cores\nRF5/nordic/nrfx_glue.h \
+ C:\Users\Spencer\AppData\Local\Arduino15\packages\adafruit\hardware\nrf52\0.21.0\cores\nRF5/nordic/nrfx/soc/nrfx_irqs.h \
+ C:\Users\Spencer\AppData\Local\Arduino15\packages\adafruit\hardware\nrf52\0.21.0\cores\nRF5/nordic/nrfx/soc/nrfx_irqs_nrf52832.h \
+ C:\Users\Spencer\AppData\Local\Arduino15\packages\adafruit\hardware\nrf52\0.21.0\cores\nRF5/nordic/nrfx/soc/nrfx_coredep.h \
+ C:\Users\Spencer\AppData\Local\Arduino15\packages\adafruit\hardware\nrf52\0.21.0\cores\nRF5/nordic/nrfx/drivers/nrfx_errors.h \
+ C:\Users\Spencer\AppData\Local\Arduino15\packages\adafruit\hardware\nrf52\0.21.0\cores\nRF5/wiring_constants.h \
+ C:\Users\Spencer\AppData\Local\Arduino15\packages\adafruit\hardware\nrf52\0.21.0\cores\nRF5/wiring_digital.h

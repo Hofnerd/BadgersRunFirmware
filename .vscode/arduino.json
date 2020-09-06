@@ -1,7 +1,8 @@
 {
     "sketch": "Source\\keyboard.ino",
     "board": "adafruit:nrf52:feather52832",
-    "configuration": "softdevice=s132v6,debug=l0",
-    "programmer": "Arduino as ISP",
-    "output": "./Build"
+    "configuration": "softdevice=s132v6,debug=l2",
+    "programmer": "ArduinoISP",
+    "output": "./Build",
+    "port": "COM5"
 }
