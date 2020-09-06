@@ -4,15 +4,13 @@
             "name": "Win32",
             "includePath": [
                 "C:\\Users\\Spencer\\AppData\\Local\\Arduino15\\packages\\adafruit\\tools\\**",
-                "C:\\Users\\Spencer\\AppData\\Local\\Arduino15\\packages\\adafruit\\hardware\\nrf52\\0.20.1\\**",
-                "C:\\Users\\Spencer\\AppData\\Local\\Arduino15\\packages\\adafruit\\hardware\\nrf52\\0.21.0\\**",
-                "C:\\Users\\Spencer\\Desktop\\Keyboard\\Firmware\\Libraries**"
+                "C:\\Users\\Spencer\\AppData\\Local\\Arduino15\\packages\\adafruit\\hardware\\nrf52\\0.21.0\\**"
             ],
             "forcedInclude": [],
             "intelliSenseMode": "msvc-x64",
-            "compilerPath": "/usr/bin/gcc",
+            "compilerPath": "C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/VC/Tools/MSVC/14.27.29110/bin/Hostx64/x64/cl.exe",
             "cStandard": "c11",
-            "cppStandard": "c++14"
+            "cppStandard": "c++17"
         }
     ],
     "version": 4
