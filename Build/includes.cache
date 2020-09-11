@@ -2,15 +2,15 @@
   {
     "Sourcefile": null,
     "Include": "",
-    "Includepath": "C:\\Users\\Spencer\\AppData\\Local\\Arduino15\\packages\\adafruit\\hardware\\nrf52\\0.21.0\\cores\\nRF5"
+    "Includepath": "/home/slombardo/.arduino15/packages/adafruit/hardware/nrf52/0.21.0/cores/nRF5"
   },
   {
     "Sourcefile": null,
     "Include": "",
-    "Includepath": "C:\\Users\\Spencer\\AppData\\Local\\Arduino15\\packages\\adafruit\\hardware\\nrf52\\0.21.0\\variants\\feather_nrf52832"
+    "Includepath": "/home/slombardo/.arduino15/packages/adafruit/hardware/nrf52/0.21.0/variants/feather_nrf52832"
   },
   {
-    "Sourcefile": "c:\\Users\\Spencer\\Desktop\\Keyboard\\Firmware\\BadgersRunFirmware\\Build\\sketch\\keyboard.ino.cpp",
+    "Sourcefile": "/home/slombardo/projects/BadgersRunFirmware/Build/sketch/keyboard.ino.cpp",
     "Include": "",
     "Includepath": null
   }

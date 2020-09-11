@@ -1,2 +1,2 @@
-c:\Users\Spencer\Desktop\Keyboard\Firmware\BadgersRunFirmware\Build\core\abi.cpp.o: \
- C:\Users\Spencer\AppData\Local\Arduino15\packages\adafruit\hardware\nrf52\0.21.0\cores\nRF5\abi.cpp
+/home/slombardo/projects/BadgersRunFirmware/Build/core/abi.cpp.o: \
+ /home/slombardo/.arduino15/packages/adafruit/hardware/nrf52/0.21.0/cores/nRF5/abi.cpp

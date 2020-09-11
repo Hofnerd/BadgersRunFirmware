@@ -1,5 +1,5 @@
-# 1 "c:\\Users\\Spencer\\Desktop\\Keyboard\\Firmware\\BadgersRunFirmware\\Source\\keyboard.ino"
-# 22 "c:\\Users\\Spencer\\Desktop\\Keyboard\\Firmware\\BadgersRunFirmware\\Source\\keyboard.ino"
+# 1 "/home/slombardo/projects/BadgersRunFirmware/Source/keyboard.ino"
+# 22 "/home/slombardo/projects/BadgersRunFirmware/Source/keyboard.ino"
 char cols [13] = {25, 26, 27, 30, 11, 7, 15, 16, 6, 8, 14, 13, 12};
 char rows [6] = {2, 3, 4, 5, 28, 29};
 

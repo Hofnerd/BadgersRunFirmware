@@ -1,5 +1,5 @@
 #include <Arduino.h>
-#line 1 "c:\\Users\\Spencer\\Desktop\\Keyboard\\Firmware\\BadgersRunFirmware\\Source\\keyboard.ino"
+#line 1 "/home/slombardo/projects/BadgersRunFirmware/Source/keyboard.ino"
 #define r0   2
 #define r1   3
 #define r2   4
@@ -25,11 +25,11 @@ char cols [13] = {c0, c1, c2, c3, c4, c5, c6, c7, c8, c9, c10, c11, c12};
 char rows  [6] = {r0, r1, r2, r3, r4, r5};
 
 
-#line 26 "c:\\Users\\Spencer\\Desktop\\Keyboard\\Firmware\\BadgersRunFirmware\\Source\\keyboard.ino"
+#line 26 "/home/slombardo/projects/BadgersRunFirmware/Source/keyboard.ino"
 void setup();
-#line 43 "c:\\Users\\Spencer\\Desktop\\Keyboard\\Firmware\\BadgersRunFirmware\\Source\\keyboard.ino"
+#line 43 "/home/slombardo/projects/BadgersRunFirmware/Source/keyboard.ino"
 void loop();
-#line 26 "c:\\Users\\Spencer\\Desktop\\Keyboard\\Firmware\\BadgersRunFirmware\\Source\\keyboard.ino"
+#line 26 "/home/slombardo/projects/BadgersRunFirmware/Source/keyboard.ino"
 void setup(){
     pinMode(LED_BUILTIN, OUTPUT);
     char t = 0;

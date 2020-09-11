@@ -1,20 +1,20 @@
-c:\Users\Spencer\Desktop\Keyboard\Firmware\BadgersRunFirmware\Build\core\nordic\nrfx\mdk\system_nrf52.c.o: \
- C:\Users\Spencer\AppData\Local\Arduino15\packages\adafruit\hardware\nrf52\0.21.0\cores\nRF5\nordic\nrfx\mdk\system_nrf52.c \
- C:\Users\Spencer\AppData\Local\Arduino15\packages\adafruit\hardware\nrf52\0.21.0\cores\nRF5\nordic\nrfx\mdk\nrf.h \
- C:\Users\Spencer\AppData\Local\Arduino15\packages\adafruit\hardware\nrf52\0.21.0\cores\nRF5\nordic\nrfx\mdk\nrf52.h \
- C:\Users\Spencer\AppData\Local\Arduino15\packages\adafruit\hardware\nrf52\0.21.0\cores\nRF5/cmsis/Core/Include/core_cm4.h \
- C:\Users\Spencer\AppData\Local\Arduino15\packages\adafruit\hardware\nrf52\0.21.0\cores\nRF5/cmsis/Core/Include/cmsis_version.h \
- C:\Users\Spencer\AppData\Local\Arduino15\packages\adafruit\hardware\nrf52\0.21.0\cores\nRF5/cmsis/Core/Include/cmsis_compiler.h \
- C:\Users\Spencer\AppData\Local\Arduino15\packages\adafruit\hardware\nrf52\0.21.0\cores\nRF5/cmsis/Core/Include/cmsis_gcc.h \
- C:\Users\Spencer\AppData\Local\Arduino15\packages\adafruit\hardware\nrf52\0.21.0\cores\nRF5/cmsis/Core/Include/mpu_armv7.h \
- C:\Users\Spencer\AppData\Local\Arduino15\packages\adafruit\hardware\nrf52\0.21.0\cores\nRF5\nordic\nrfx\mdk\system_nrf52.h \
- C:\Users\Spencer\AppData\Local\Arduino15\packages\adafruit\hardware\nrf52\0.21.0\cores\nRF5\nordic\nrfx\mdk\system_nrf.h \
- C:\Users\Spencer\AppData\Local\Arduino15\packages\adafruit\hardware\nrf52\0.21.0\cores\nRF5\nordic\nrfx\mdk\nrf52_bitfields.h \
- C:\Users\Spencer\AppData\Local\Arduino15\packages\adafruit\hardware\nrf52\0.21.0\cores\nRF5\nordic\nrfx\mdk\nrf51_to_nrf52.h \
- C:\Users\Spencer\AppData\Local\Arduino15\packages\adafruit\hardware\nrf52\0.21.0\cores\nRF5\nordic\nrfx\mdk\nrf52_name_change.h \
- C:\Users\Spencer\AppData\Local\Arduino15\packages\adafruit\hardware\nrf52\0.21.0\cores\nRF5\nordic\nrfx\mdk\compiler_abstraction.h \
- C:\Users\Spencer\AppData\Local\Arduino15\packages\adafruit\hardware\nrf52\0.21.0\cores\nRF5\nordic\nrfx\mdk\nrf_erratas.h \
- C:\Users\Spencer\AppData\Local\Arduino15\packages\adafruit\hardware\nrf52\0.21.0\cores\nRF5\nordic\nrfx\mdk\nrf51_erratas.h \
- C:\Users\Spencer\AppData\Local\Arduino15\packages\adafruit\hardware\nrf52\0.21.0\cores\nRF5\nordic\nrfx\mdk\nrf52_erratas.h \
- C:\Users\Spencer\AppData\Local\Arduino15\packages\adafruit\hardware\nrf52\0.21.0\cores\nRF5\nordic\nrfx\mdk\nrf53_erratas.h \
- C:\Users\Spencer\AppData\Local\Arduino15\packages\adafruit\hardware\nrf52\0.21.0\cores\nRF5\nordic\nrfx\mdk\nrf91_erratas.h
+/home/slombardo/projects/BadgersRunFirmware/Build/core/nordic/nrfx/mdk/system_nrf52.c.o: \
+ /home/slombardo/.arduino15/packages/adafruit/hardware/nrf52/0.21.0/cores/nRF5/nordic/nrfx/mdk/system_nrf52.c \
+ /home/slombardo/.arduino15/packages/adafruit/hardware/nrf52/0.21.0/cores/nRF5/nordic/nrfx/mdk/nrf.h \
+ /home/slombardo/.arduino15/packages/adafruit/hardware/nrf52/0.21.0/cores/nRF5/nordic/nrfx/mdk/nrf52.h \
+ /home/slombardo/.arduino15/packages/adafruit/hardware/nrf52/0.21.0/cores/nRF5/cmsis/Core/Include/core_cm4.h \
+ /home/slombardo/.arduino15/packages/adafruit/hardware/nrf52/0.21.0/cores/nRF5/cmsis/Core/Include/cmsis_version.h \
+ /home/slombardo/.arduino15/packages/adafruit/hardware/nrf52/0.21.0/cores/nRF5/cmsis/Core/Include/cmsis_compiler.h \
+ /home/slombardo/.arduino15/packages/adafruit/hardware/nrf52/0.21.0/cores/nRF5/cmsis/Core/Include/cmsis_gcc.h \
+ /home/slombardo/.arduino15/packages/adafruit/hardware/nrf52/0.21.0/cores/nRF5/cmsis/Core/Include/mpu_armv7.h \
+ /home/slombardo/.arduino15/packages/adafruit/hardware/nrf52/0.21.0/cores/nRF5/nordic/nrfx/mdk/system_nrf52.h \
+ /home/slombardo/.arduino15/packages/adafruit/hardware/nrf52/0.21.0/cores/nRF5/nordic/nrfx/mdk/system_nrf.h \
+ /home/slombardo/.arduino15/packages/adafruit/hardware/nrf52/0.21.0/cores/nRF5/nordic/nrfx/mdk/nrf52_bitfields.h \
+ /home/slombardo/.arduino15/packages/adafruit/hardware/nrf52/0.21.0/cores/nRF5/nordic/nrfx/mdk/nrf51_to_nrf52.h \
+ /home/slombardo/.arduino15/packages/adafruit/hardware/nrf52/0.21.0/cores/nRF5/nordic/nrfx/mdk/nrf52_name_change.h \
+ /home/slombardo/.arduino15/packages/adafruit/hardware/nrf52/0.21.0/cores/nRF5/nordic/nrfx/mdk/compiler_abstraction.h \
+ /home/slombardo/.arduino15/packages/adafruit/hardware/nrf52/0.21.0/cores/nRF5/nordic/nrfx/mdk/nrf_erratas.h \
+ /home/slombardo/.arduino15/packages/adafruit/hardware/nrf52/0.21.0/cores/nRF5/nordic/nrfx/mdk/nrf51_erratas.h \
+ /home/slombardo/.arduino15/packages/adafruit/hardware/nrf52/0.21.0/cores/nRF5/nordic/nrfx/mdk/nrf52_erratas.h \
+ /home/slombardo/.arduino15/packages/adafruit/hardware/nrf52/0.21.0/cores/nRF5/nordic/nrfx/mdk/nrf53_erratas.h \
+ /home/slombardo/.arduino15/packages/adafruit/hardware/nrf52/0.21.0/cores/nRF5/nordic/nrfx/mdk/nrf91_erratas.h
