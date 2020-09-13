@@ -4,5 +4,5 @@
     "configuration": "softdevice=s132v6,debug=l2",
     "programmer": "Arduino as ISP",
     "output": "./Build",
-    "port": "COM5"
+    "port": "/dev/ttyUSB0"
 }

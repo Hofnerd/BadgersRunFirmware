@@ -27,7 +27,7 @@ char rows  [6] = {r0, r1, r2, r3, r4, r5};
 
 #line 26 "/home/slombardo/projects/BadgersRunFirmware/Source/keyboard.ino"
 void setup();
-#line 43 "/home/slombardo/projects/BadgersRunFirmware/Source/keyboard.ino"
+#line 45 "/home/slombardo/projects/BadgersRunFirmware/Source/keyboard.ino"
 void loop();
 #line 26 "/home/slombardo/projects/BadgersRunFirmware/Source/keyboard.ino"
 void setup(){
@@ -35,7 +35,8 @@ void setup(){
     char t = 0;
     while (t < (sizeof(cols)/sizeof(cols[0]))){
         pinMode(cols[t], OUTPUT);
-        digitalWrite(cols[t], HIGH);
+        // digitalWrite(cols[t], HIGH);
+        digitalWrite(cols[t], LOW);
         t++;
     }
     t = 0;
@@ -44,9 +45,13 @@ void setup(){
         t++;
     }
 
-    pinMode(r0, INPUT);
+    Serial.begin(115200);
+
 }
 
 void loop() {
-    digitalWrite(LED_BUILTIN, digitalRead(rows[5]));
+    digitalWrite(LED_BUILTIN, LOW);
+    digitalWrite(LED_BUILTIN, digitalRead(rows[1]));
+    Serial.println(digitalRead(rows[1]));
+    delay(10);
 }

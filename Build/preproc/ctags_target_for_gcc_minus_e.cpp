@@ -9,7 +9,8 @@ void setup(){
     char t = 0;
     while (t < (sizeof(cols)/sizeof(cols[0]))){
         pinMode(cols[t], (0x1));
-        digitalWrite(cols[t], (0x1));
+        // digitalWrite(cols[t], HIGH);
+        digitalWrite(cols[t], (0x0));
         t++;
     }
     t = 0;
@@ -18,9 +19,13 @@ void setup(){
         t++;
     }
 
-    pinMode(2, (0x0));
+    Serial.begin(115200);
+
 }
 
 void loop() {
-    digitalWrite((17), digitalRead(rows[5]));
+    digitalWrite((17), (0x0));
+    digitalWrite((17), digitalRead(rows[1]));
+    Serial.println(digitalRead(rows[1]));
+    delay(10);
 }
