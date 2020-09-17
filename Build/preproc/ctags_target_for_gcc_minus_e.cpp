@@ -8,9 +8,9 @@ void setup(){
     pinMode((17), (0x1));
     char t = 0;
     while (t < (sizeof(cols)/sizeof(cols[0]))){
-        pinMode(cols[t], (0x1));
+        pinMode(cols[t], (0x0));
         // digitalWrite(cols[t], HIGH);
-        digitalWrite(cols[t], (0x0));
+        // digitalWrite(cols[t], LOW);
         t++;
     }
     t = 0;

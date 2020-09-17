@@ -34,9 +34,9 @@ void setup(){
     pinMode(LED_BUILTIN, OUTPUT);
     char t = 0;
     while (t < (sizeof(cols)/sizeof(cols[0]))){
-        pinMode(cols[t], OUTPUT);
+        pinMode(cols[t], INPUT);
         // digitalWrite(cols[t], HIGH);
-        digitalWrite(cols[t], LOW);
+        // digitalWrite(cols[t], LOW);
         t++;
     }
     t = 0;
